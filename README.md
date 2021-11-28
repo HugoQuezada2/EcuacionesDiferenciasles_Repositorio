@@ -6,7 +6,7 @@ La ley del enfriamiento de Sir. Isaac Newton o enfriamiento newtoniano establece
 “La rapidez a la que cambia la temperatura de un objeto es proporcional a la diferencia entre la temperatura del objeto y la del medio que lo rodea”.
 ## Su fórmula:
 
-dT/dt = k(T-Tm)
+## dT/dt = k(T-Tm)
 
 # Diarama de Git
 ![Diagrama_git](https://user-images.githubusercontent.com/89879397/143786467-2362883e-ff8b-4e53-8b05-8b0333544665.png)
