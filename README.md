@@ -1,4 +1,4 @@
-## Ecuaciones Diferenciales
+# Ecuaciones Diferenciales
 ### Semestre Aosto - Diciembre 2021
 
 
