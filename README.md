@@ -1,5 +1,5 @@
-### Ecuaciones Diferenciales
-## Semestre Aosto - Diciembre 2021
+## Ecuaciones Diferenciales
+### Semestre Aosto - Diciembre 2021
 
 
 La ley del enfriamiento de Sir. Isaac Newton o enfriamiento newtoniano establece que la tasa de pérdida de calor de un cuerpo es proporcional a la diferencia de temperatura entre el cuerpo y sus alrededores.
